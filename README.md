@@ -1,2 +1,4 @@
-# TIL
-Today I Learned
+# TIL - Today I Learned
+- 오늘 공부한 내용을 기록합니다.
+- 질보다 양을 중시합니다.
+- 일주일에 5일 이상 작성을 목표로 합니다.
